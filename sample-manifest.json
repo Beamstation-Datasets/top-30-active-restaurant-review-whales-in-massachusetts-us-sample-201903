@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b3894569-bd97-41ac-988a-3ca5bcae5e2d",
+  "export_job_id": "ade06b6d-d515-4434-863f-026c85eaa270",
   "id_short": 201903,
-  "published_at": "2026-04-11T07:06:27Z",
+  "published_at": "2026-04-18T07:34:37Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-massachusetts-us-sample-201903",
   "sample_asset_name": "beamstation_201903_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/201903/beamstation_201903_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 105,
-  "sample_sha256": "218299b0180c19b2ee4add17b94b9ff602ba51cf6fb759f4c4e9fd14d72fc934",
-  "sample_size_bytes": 436282,
-  "total_records": 1057
+  "sample_records": 86,
+  "sample_sha256": "11d46c3f249654c8ee605f9a85806b1852a499298555f14163a70f6730839aa3",
+  "sample_size_bytes": 360289,
+  "total_records": 863
 }
