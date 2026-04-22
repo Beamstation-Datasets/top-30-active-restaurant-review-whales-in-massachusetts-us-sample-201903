@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Massachusetts, US
 
-> Free BeamStation sample export with 86 rows and masked direct-contact fields.
+> Free BeamStation sample export with 62 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `201903` |
 | Location | Massachusetts |
 | Category | Restaurants |
-| Full dataset size | 863 records |
-| Free sample size | 86 records (9.97%) |
-| Last export | 2026-04-14T23:33:58.040700+00:00 |
+| Full dataset size | 628 records |
+| Free sample size | 62 records (9.87%) |
+| Last export | 2026-04-22T03:05:30.934712+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-massachusetts-us-sample-201903/releases/download/sample-latest/beamstation_201903_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
